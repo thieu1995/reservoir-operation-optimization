@@ -1,0 +1,3 @@
+system,filename,paras,trial,best_fit
+BaseDE,DE-4cd453561df844849facff56b3363185,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",1,65.50406507945078
+BaseDE,DE-eeb5a17cd8a345a7ab76964b0f0e929c,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",2,70.75927188422506

@@ -1,0 +1,11 @@
+system,filename,paras,trial,best_fit
+BaseDE,DE-3480dc1b232d47c6890ad8e287f3a052,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",1,1.1690678335636193
+BaseDE,DE-a04c59392749441aa6a8df1b7ec75735,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",2,2.469717865519714
+BaseDE,DE-bdf5d79373444dfba490914e0a3fc787,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",3,1.009206511052946
+BaseDE,DE-9a2a04c6f97b4e9b980c954c7daeabf1,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",4,1.7025974769624883
+BaseDE,DE-ed92be9182e5457a8de69193ef03c54d,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",5,1.1850503656762599
+BaseDE,DE-afe095f74b2d4b7ba88cca6515c2cb00,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",6,1.0460832471253172
+BaseDE,DE-1f7e8ddc88134aa8b28af626368426c0,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",7,1.2412132917668255
+BaseDE,DE-09b1944c5a8247c792f3355a1ff5eea2,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",8,0.9053899968660581
+BaseDE,DE-30780d7099ca46a5b98ba4879b72de61,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",9,0.9116107828150186
+BaseDE,DE-bf8601fbe0f049ad9a4f934e36315b70,"{'cr': 0.8, 'epoch': 500, 'pop_size': 50, 'strategy': 1, 'wf': 0.85}",10,1.105470312314478
